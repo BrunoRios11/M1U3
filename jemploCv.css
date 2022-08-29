@@ -1,0 +1,41 @@
+p{
+   color: green;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 22px;
+   font-weight: bold;
+}
+h1{
+   color: rgb(0, 0, 0)
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 22px;
+   font-weight: bold;
+}
+h2{
+   color: brown;
+   background-color: blue;
+   text-align: center;
+}
+li{
+   color: red;
+   background-color: blue;
+   text-align: justify;
+}
+h3{
+   color: brown;
+}
+.destacados{
+              color: darkgreen;
+              font-style: italic;
+}
+.caja{
+      width: 450px;
+      background-color: bisque;
+      border: 9px outset #000000;
+      text-align: center;
+}
+#caja2{
+    width: 500px;
+    height: 200px;
+    background: orange;
+    text-align: center;
+}
